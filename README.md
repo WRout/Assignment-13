@@ -1,7 +1,7 @@
 # Assignment #_: ________
 
-**This assignment is ____________________________.**
+**This assignment is a virtual shoe store, perfect for the pandemic going on. View this project at: walker.rout.ca.**
 
 ## Getting Started With the Project
 
-> This project is written in a local style, meaning that I have not set it up on any domain. If you would like to run this project, download the files, and set them them up inside a new, empty directory. Open up the *"index.html"* file located in the main directory in a web browser (this is achieved by either right clicking the file and launching with a certain web browser, or opening up a web browser page and dragging the file into it). Doing this will display the project's main web page.
+> This project is fairly intuitive, all one must do is either download it and open it on their computer, or visit **walker.rout.ca** and view it there. In order to get into the store, one must input their gender (male or female), and their shoe size. If the shoe size does not meet the criteria, the user will be kicked from the store. If the shoe size meets to criteria, the user will see a page displaying their information, along with a message saying their request is being processed.
