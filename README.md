@@ -1,4 +1,4 @@
-# Assignment #_: ________
+# Assignment #13: Shoe Store
 
 **This assignment is a virtual shoe store, perfect for the pandemic going on. View this project at: walker.rout.ca.**
 
