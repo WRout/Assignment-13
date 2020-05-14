@@ -36,7 +36,7 @@ function getInfo() {
     
     if (getSize >= 8 && getSize <= 12) {
         text.innerHTML = ("Welcome to the store! Your request is being processed!");
-        info.innerHTML = ("You input a gender of " + getGender + " with a foot size of " + getSize + "!");
+        info.innerHTML = ("You input a gender of " + getGender.toLowerCase() + " with a foot size of " + getSize + "!");
         img.style.height = ("300px");
         img.style.width = ("450px");
         img.src = ("./content/men.png");
