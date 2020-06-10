@@ -1,4 +1,4 @@
-# Assignment #13: Shoe Store
+# Assignment #13: Shoe Store ( NOT CURRENTLY WORKING )
 
 **This assignment is a virtual shoe store, perfect for the pandemic going on. View this project at: walker.rout.ca.**
 
